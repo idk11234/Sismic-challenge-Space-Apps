@@ -1,1 +1,1 @@
-# Sismic-challenge-Space-Apps
+# Seismic-challenge-Space-Apps
